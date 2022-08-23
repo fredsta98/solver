@@ -12,6 +12,3 @@ six==1.16.0
 tqdm==4.64.0
 trotter==1.1.0
 urllib3==1.26.9
-numba
-cudatoolkit
-
