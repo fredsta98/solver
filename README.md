@@ -30,7 +30,7 @@ Eg. `*****aacf90d9f4aadd8c92e4b2562e1d9eb97f0df9ba3b508258739cb013db2`
 | 6                  | 74 hours                          |
 
 ### Examples
-
+Unless you're running on GPU use 'main.py' otherwise use 'solver.py'
 #### Recover a WIF key with an unknown address
 
 `main.py --maskedkey=L5EZftvrYaSudiozVRzTqLcHLNDo***H5HSfM9BAN6tMJX8oTWz6`
